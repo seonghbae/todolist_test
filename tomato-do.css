@@ -1,0 +1,18 @@
+/* 보기 쉽게 임의로 css 설정함 */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.list_name {
+  display: inline-block;
+  width: 9rem;
+}
+
+.list_check {
+  font-size: 1rem;
+}
+
+.list_delete_btn {
+  cursor: pointer;
+}
